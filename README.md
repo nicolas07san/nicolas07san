@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @nicolas07san
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Java, Python and C#
-- 💞️ I’m looking to collaborate on anything to learn more
-- 📫 How to reach me:
-E-mail: nicolas07san@gmail.com
+- 🌱 I’m currently learning C# and Unity
 
 <!---
 nicolas07san/nicolas07san is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
