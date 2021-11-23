@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicolas07san
-- 👀 I’m interested in learning new things
+- 👀 I’m interested in learning game dev
 - 🌱 I’m currently learning C# and Unity
 
 <!---
